@@ -132,7 +132,9 @@
 //     console.log("Insufficient Balance");
 // }
 
-// Store Employee Details in Object
+//  Challenge Task (Mix Everything)
+//Build a Mini Employee Management System 
+//Store Employee Details in Object
 
 let employee = {
     name: prompt("Enter Employee Name:"),
